@@ -76,7 +76,6 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="SuperDev0701's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperDev0701&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
-  
 </p>
 </details>
 
@@ -88,9 +87,9 @@
 </h2>
 <br />
   
-  Email: <a href="mailto:awork.maksym@gmail.com">awork.maksym@gmail.com</a> <br />
-  Skype: <a href="https://join.skype.com/invite/N4xToiwT3Ken">@Antero</a> <br />
-  Telegram: <a href="https://t.me/ice0701">@ice0701</a><br />
-  WebSite: <a href="https://superdev0701.github.io">superdev0701</a> <br />
+  <a href="mailto:awork.maksym@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="https://join.skype.com/invite/N4xToiwT3Ken" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  <a href="https://t.me/ice0701" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://superdev0701.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
   
 </div>
