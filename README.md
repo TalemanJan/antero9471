@@ -88,9 +88,9 @@
 </h2>
 <br />
 <p>
-Email: awork.maksym@gmail.com <br />
+Email: [awork.maksym@gmail.com](mailto:awork.maksym@gmail.com) <br />
 Skype: live:.cid.e9bf7ffc893bf1dc <br />
-Telegram: https://t.me/ice0701 <br />
-Portfolio: https://portfolios-7c9243.webflow.io <br />
+Telegram: [ice0701](https://t.me/ice0701) <br />
+WebSite: [superdev0701](https://superdev0701.github.io) <br />
 </p>
 </div>
