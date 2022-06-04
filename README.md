@@ -87,11 +87,10 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
 </h2>
 <br />
+  
+  Email: <a href="#">awork.maksym@gmail.com</a> <br />
+  Skype: live:.cid.e9bf7ffc893bf1dc <br />
+  Telegram: <a href="https://t.me/ice0701">@ice0701</a><br />
+  WebSite: <a href="https://superdev0701.github.io">superdev0701</a> <br />
+  
 </div>
-
-Email: awork.maksym@gmail.com <br />
-Skype: live:.cid.e9bf7ffc893bf1dc <br />
-Telegram: https://t.me/ice0701 <br />
-WebSite: https://superdev0701.github.io <br />
-
-
