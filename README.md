@@ -89,8 +89,8 @@
 <br />
   
   Email: <a href="mailto:awork.maksym@gmail.com">awork.maksym@gmail.com</a> <br />
-  Skype: <a href="https://join.skype.com/invite/N4xToiwT3Ken" target="_blank">@Antero</a> <br />
-  Telegram: <a href="https://t.me/ice0701" target="_blank">@ice0701</a><br />
-  WebSite: <a href="https://superdev0701.github.io" target="_blank">superdev0701</a> <br />
+  Skype: <a href="https://join.skype.com/invite/N4xToiwT3Ken">@Antero</a> <br />
+  Telegram: <a href="https://t.me/ice0701">@ice0701</a><br />
+  WebSite: <a href="https://superdev0701.github.io">superdev0701</a> <br />
   
 </div>
