@@ -75,9 +75,11 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDev0701&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <br><br>
     <img alt="SuperDev0701's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperDev0701&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg">
 </p>
 </details>
-![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 <div align="center">
 <h2>
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
