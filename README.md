@@ -15,6 +15,11 @@
 </p>
 
 ## Core Skills
+<p align="left">
+  <a href="https://app.daily.dev/superdev0701">
+    <img src="https://api.daily.dev/devcards/d4b121b8d96d46a888c13a493982423e.png?r=z6i" width="400" alt="Antero's Dev Card"/>
+  </a>
+</p>
 
 - 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
 - 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
