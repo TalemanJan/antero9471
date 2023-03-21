@@ -72,8 +72,8 @@
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br> 
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=ibm9471&show_icons=true&&include_all_commits=true&hide=contribs&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ibm9471&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api?username=antero9471&show_icons=true&&include_all_commits=true&hide=contribs&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=antero9471&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <img src = "profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 </details>
