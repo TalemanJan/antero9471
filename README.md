@@ -74,7 +74,7 @@
 <p align = "center">
   <table>
       <tr>
-          <td align="center"><a href="https://github.com/antero9471#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=antero9471&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/antero9471#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=antero9471&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+          <td align="center"><a href="https://github.com/antero9471#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=antero9471&show_icons=true&hide_contribs=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/antero9471#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=antero9471&show_icons=true&hide_contribs=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
           <td rowspan="2" align="center"><a href="https://github.com/antero9471#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antero9471&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/antero9471#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antero9471&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
       </tr>
       <tr>
