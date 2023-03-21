@@ -25,12 +25,6 @@
 
 <p align="center">
   <a href="https://github.com/antero9471">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=antero9471&theme=github-dark-blue&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/antero9471">
     <img src = "profile-3d-contrib/profile-night-view.svg">
   </a>
 </p>
