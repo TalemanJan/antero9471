@@ -5,11 +5,14 @@
 </p>
 
 <p align="center" style="margin-bottom: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=antero9471&column=7&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=antero9471&column=7&theme=onedark&no-frame=true&rank=-C&#gh-dark-mode-only"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=antero9471&column=7&theme=flat&no-frame=true&rank=-C&#gh-light-mode-only"/>
 </p>
 
 <div align="center">
   <a href="https://github.com/antero9471">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antero9471&hide=contribs&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antero9471&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antero9471&hide=contribs&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&#gh-dark-mode-only">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antero9471&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&#gh-light-mode-only#gh-light-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antero9471&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antero9471&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true#gh-light-mode-only"/>
 </div>
