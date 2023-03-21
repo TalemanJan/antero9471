@@ -5,14 +5,18 @@
 </p>
 
 <p align="center" style="margin-bottom: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=antero9471&column=7&theme=onedark&no-frame=true&rank=-C&#gh-dark-mode-only"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=antero9471&column=7&theme=flat&no-frame=true&rank=-C&#gh-light-mode-only"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=antero9471&column=7&theme=onedark"/>
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/antero9471">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antero9471&hide=contribs&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true#gh-dark-mode-only">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antero9471&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true#gh-light-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antero9471&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antero9471&show_icons=true&langs_count=8&layout=compact&hide_border=true#gh-light-mode-only"/>
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antero9471&hide=contribs&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true">
+  </a>
+  <a href="https://github.com/antero9471">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antero9471&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=antero9471&theme=react-dark" />
+</p>
